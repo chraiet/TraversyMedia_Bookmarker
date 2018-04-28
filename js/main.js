@@ -1,3 +1,7 @@
+/**
+ * Script by Traversy Media.
+ */
+
 //  Listen for form submit.
 document.getElementById('myForm').addEventListener('submit', saveBookmark);
 
