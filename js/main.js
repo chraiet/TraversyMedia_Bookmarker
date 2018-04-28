@@ -96,7 +96,3 @@ function validateForm(siteName, siteUrl) {
 
   return true;
 }
-
-function testFunction() {
-  return 42;
-}
